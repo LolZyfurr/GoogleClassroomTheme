@@ -1,14 +1,15 @@
 # Google Classroom Theme
-Some description of it here, I will add this later...
+A description will be added here later.
 
-## How to use
-- First, you need to install an extension like Stylebot from the Chrome Web Store.
-- After installation, navigate to [Google Classroom](https://classroom.google.com/).
-- Click on the Stylebot extension, which will display an interactive menu with options for Readability, Open Stylebot, and Options.
-- Select 'Open Stylebot', and a sidebar menu will appear.
-- At the bottom of this sidebar, there are three options: Basic, Code, and Magic.
-- Choose the 'Code' option.
-- Paste the provided code into the text box below.
+## How to Use
+# Installation
+- Begin by installing an extension such as Stylebot from the Chrome Web Store.
+- Once installed, go to [Google Classroom](https://classroom.google.com/).
+- Click on the Stylebot extension icon to open a menu with options like Readability, Open Stylebot, and Options.
+- Choose 'Open Stylebot' to bring up a sidebar.
+- Scroll to the bottom of this sidebar to find three options: Basic, Code, and Magic.
+- Select the 'Code' option.
+- Copy the code provided below and paste it into the text box.
 ```css
 :root {
   --background-image-url: url("https://media.discordapp.net/attachments/1207879896097882112/1221849828741349386/file.jpg?ex=66141354&is=66019e54&hm=13e5698ae8060fbf51b01e2f326861801cef8a52ebc8ed4951e228967a9336e2&=");
