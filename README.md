@@ -2,6 +2,7 @@
 A description will be added here later.
 
 ## Theme Preview
+Here are some visuals of the theme.
 ### Home Page
 ![Preview Image 01](https://github.com/Zy1ux/GoogleClassroomTheme/blob/main/Home_Page.png?raw=true)
 
