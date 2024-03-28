@@ -1,7 +1,8 @@
 # Google Classroom Theme
 A description will be added here later.
 
-## How to Use
+## How to Apply
+Follow these steps to apply a theme and enhance the appearance of Google Classroom.
 ### Installation
 - Begin by installing an extension such as Stylebot from the Chrome Web Store.
 - Once installed, go to [Google Classroom](https://classroom.google.com/).
