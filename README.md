@@ -2,7 +2,7 @@
 A description will be added here later.
 
 ## How to Use
-# Installation
+### Installation
 - Begin by installing an extension such as Stylebot from the Chrome Web Store.
 - Once installed, go to [Google Classroom](https://classroom.google.com/).
 - Click on the Stylebot extension icon to open a menu with options like Readability, Open Stylebot, and Options.
