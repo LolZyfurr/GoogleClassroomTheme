@@ -3,6 +3,7 @@ A description will be added here later.
 
 ## How to Apply
 Follow these steps to apply a theme and enhance the appearance of Google Classroom.
+
 ### Installation
 - Begin by installing an extension such as Stylebot from the Chrome Web Store.
 - Once installed, go to [Google Classroom](https://classroom.google.com/).
@@ -27,3 +28,15 @@ Follow these steps to apply a theme and enhance the appearance of Google Classro
 
 @import url("https://raw.githubusercontent.com/Zy1ux/GoogleClassroomTheme/main/main.theme.css");
 ```
+
+### Customization
+- `--background-image-url` - The URL for the background image you wish to use.
+- `--text-color` - The color of the text on the webpage.
+- `--background-opacity-top` - The opacity of the background image overlay gradient at the top.
+- `--background-opacity-bottom` - The opacity of the background image overlay gradient at the bottom.
+- `--image-color-overlay` - The color of the gradient overlay on the background image.
+- `--element-background-color` - The color of buttons and other interface elements.
+- `--element-border-radius` - The curvature of the corners of elements.
+- `--element-brightness` - The brightness level of the elements (function unknown).
+- `--element-background-blur` - The amount of blur applied to the background behind elements.
+- `--background-blur` - The degree of blur applied to the background (not recommended for adjustment as it is currently not functioning properly).
