@@ -1,6 +1,10 @@
 # Google Classroom Theme
 A description will be added here later.
 
+## Theme Preview
+### Home Page
+![Preview Image 01](https://media.discordapp.net/attachments/1200543265670320259/1222960670518022174/image.png?ex=66181de1&is=6605a8e1&hm=11824e18dfcda0b89f9ded03f748a0efb45a5d3f560a2050c6ee841770532bfa&=)
+
 ## How to Apply
 Follow these steps to apply a theme and enhance the appearance of Google Classroom.
 
